@@ -30,7 +30,10 @@
 				"streetsidesoftware.code-spell-checker",
 				"ms-azuretools.vscode-docker",
 				"negokaz.zenn-editor"
-			]
+			],
+			"settings": {
+				"editor.tabSize": 2
+			}
 		}
 	}
 
