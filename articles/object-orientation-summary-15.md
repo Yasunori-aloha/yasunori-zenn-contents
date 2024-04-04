@@ -3,7 +3,7 @@ title: "オブジェクト指向のこころ 第15章の振り返り"
 emoji: "📗"
 type: "idea" # tech: 技術記事 / idea: アイデア
 topics: [オブジェクト指向, デザインパターン, 共通性, 可変性分析]
-published: false
+published: true
 ---
 ## はじめに
 みなさんこんにちは、[やすのり](https://twitter.com/Bjp78xoSUd89227)です。
